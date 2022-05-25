@@ -1,0 +1,1 @@
+console.log("Hello namaku Dimas Khosyi Triangga")
